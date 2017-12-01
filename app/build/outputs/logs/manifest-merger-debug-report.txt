@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml
+		INJECTED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml
+		INJECTED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml
+		INJECTED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.2.1] I:\android_prj2\C200Client1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml
+		INJECTED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml
+		INJECTED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:12:22-71
+uses-feature#android.hardware.bluetooth_le
+ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:13:5-89
+	android:required
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:13:64-87
+	android:name
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:13:19-63
+uses-permission#android.permission.VIBRATE
+ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:15:22-63
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:18:5-74
+	android:name
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:19:22-65
+application
+ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:21:5-47:19
+MERGED from [com.android.support:support-v4:22.2.1] I:\android_prj2\C200Client1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:24:9-41
+	android:allowBackup
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:23:9-45
+	android:theme
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:25:9-41
+activity#com.kfree.bluetooth.le.DeviceScanActivity
+ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:screenOrientation
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:29:13-49
+	android:label
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:27:13-69
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.kfree.bluetooth.le.DeviceControlActivity
+ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:36:10-37:51
+	android:screenOrientation
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:36:20-57
+activity#com.kfree.bluetooth.le.Messagedialog
+ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:39:9-43:70
+	android:excludeFromRecents
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:41:11-44
+	android:launchMode
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:40:14-49
+	android:theme
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:43:11-68
+	android:taskAffinity
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:42:11-34
+	android:name
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:39:19-48
+service#com.kfree.bluetooth.le.BluetoothLeService
+ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:45:9-77
+	android:enabled
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:45:53-75
+	android:name
+		ADDED from I:\android_prj2\C200Client1\app\src\main\AndroidManifest.xml:45:18-52

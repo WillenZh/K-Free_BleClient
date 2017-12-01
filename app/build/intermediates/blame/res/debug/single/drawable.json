@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "I:\\android_prj2\\C200Client1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
+        "source": "I:\\android_prj2\\C200Client1\\app\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "I:\\android_prj2\\C200Client1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_large.xml",
+        "source": "I:\\android_prj2\\C200Client1\\app\\src\\main\\res\\drawable\\progress_large.xml"
+    },
+    {
+        "merged": "I:\\android_prj2\\C200Client1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stat_sys_battery.xml",
+        "source": "I:\\android_prj2\\C200Client1\\app\\src\\main\\res\\drawable\\stat_sys_battery.xml"
+    }
+]

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="ble_not_supported">不支持蓝牙</string>
+    <string name="label_data">数据:</string>
+    <string name="label_device_address">设备地址:</string>
+    <string name="label_state">状态:</string>
+    <string name="no_data">无数据</string>
+    <string name="connected">已连接</string>
+    <string name="disconnected">已断开</string>
+    <string name="title_devices">"设备列表"</string>
+    <string name="error_bluetooth_not_supported">不支持蓝牙.</string>
+    <string name="error_bluetooth_not_enabled">请打开蓝牙.</string>
+    <string name="searching">"正在搜索"</string>
+    <string name="search">"搜索"</string>
+ 
+    <string name="bt_status_1">"已开始"</string>
+    <string name="bt_status_2">"已断开"</string>
+    <string name="bt_status_3">"已连接"</string>
+    <string name="time">"分钟"</string>
+    <string name="infusion_status_ready">"准备就绪"</string>
+    <string name="infusion_status_ing">"正在监控 ···"</string>
+    <string name="infusion_status_stop">"监控中断"</string>
+    <string name="infusion_status_pause">"输液暂停"</string>
+    <string name="infusion_status_end">"输液结束"</string>
+    <string name="tip">"提醒："</string>
+    <string name="ring">"铃声"</string>
+    <string name="vibrate">"震动"</string>
+    <string name="end">"结束"</string>
+    
+    <string name="connecting">"正在连接"</string>
+    
+    
+    <string name="unknown_device">未知设备</string>
+    <string name="unknown_characteristic">未知特性</string>
+    <string name="unknown_service">未知服务</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">连接</string>
+    <string name="menu_disconnect">断开</string>
+    <string name="menu_scan">扫描</string>
+    <string name="menu_stop">停止</string>
+    <string name="menu_rename">重命名</string>
+    
+    <string name="error_title">警告</string>
+</resources>

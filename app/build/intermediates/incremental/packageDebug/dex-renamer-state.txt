@@ -1,0 +1,7 @@
+#Fri Dec 01 09:15:29 CST 2017
+base.0=I\:\\android_prj2\\C200Client1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cbbd3a367d9a69b8a26a7f1096e37ee9ee6ddaf3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=I\:\\android_prj2\\C200Client1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c157dd711b16284fd6444adea44361f69fc9f83a\\classes.dex
+base.1=I\:\\android_prj2\\C200Client1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c157dd711b16284fd6444adea44361f69fc9f83a
+file.0=I\:\\android_prj2\\C200Client1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cbbd3a367d9a69b8a26a7f1096e37ee9ee6ddaf3\\classes.dex

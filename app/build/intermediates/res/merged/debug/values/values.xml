@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">C200 Client</string>
+    <string name="battery" translatable="false"><ns1:g id="level">%d</ns1:g></string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="bt_status_1">"Running"</string>
+    <string name="bt_status_2">"Disconnected"</string>
+    <string name="bt_status_3">"Connected"</string>
+    <string name="connected">Connected</string>
+    <string name="connecting">"connecting"</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="end">"End"</string>
+    <string name="error_bluetooth_not_enabled">Please turn on bluetooth.</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="error_title">Warning</string>
+    <string name="infusion_status_end">"End of infusion"</string>
+    <string name="infusion_status_ing">"Monitoring ···"</string>
+    <string name="infusion_status_pause">"Pause of infusion"</string>
+    <string name="infusion_status_ready">"Ready"</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_rename">Rename</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+    <string name="no_data">No data</string>
+    <string name="ring">"ring"</string>
+    <string name="search">"search"</string>
+    <string name="searching">"Searching"</string>
+    <string name="time">"Min"</string>
+    <string name="tip">"Tip:"</string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_service">Unknown service</string>
+    <string name="vibrate">"shock"</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="MainTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarSize">50dp</item>
+    </style>
+</resources>
